@@ -1,2 +1,3 @@
-# MapKitLocation
-Implementation of SwiftUI and MapKit
+# MapKit and SwiftUI
+Application that uses MapKit and pin points SUNY Oswego
+
